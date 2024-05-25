@@ -1,8 +1,8 @@
-# Sound - E-commerce Application
+# Sound - FullStack E-commerce Application
 
 ## Overview
 
-Sound is a dynamic e-commerce application designed specifically for headphones. This project is built using the Next.js framework for server-side rendering, Sass for styling and design, and Sanity as the headless CMS for content management.
+Sound is a dynamic fullStack e-commerce application designed specifically for headphones. This project is built using the Next.js framework for server-side rendering, Sass for styling and design, and Sanity as the headless CMS for content management.
 
 ## ScreenShots
 
